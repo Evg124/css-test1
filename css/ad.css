@@ -1,0 +1,215 @@
+.body1 img {
+    width: 15%;
+    ;
+}
+
+.flex {
+    border-radius: 3%;
+    border-bottom-color: rgb(156, 156, 161);
+    border-bottom-width: 2px;
+    
+}
+
+h4 {
+    text-shadow: 1px 1px 2px black, 0 0 1em red;
+    font: 600px;
+}
+
+
+
+.avatar {
+    border-right-color: rgb(156, 156, 161);
+    border-right-width: 5px;
+    margin-left: 20%;
+    margin-top: 0%;
+    padding: 0px 10px 10px 0px;
+    background-color: rgb(249, 198, 226);
+    border-radius: 5%;
+  
+    
+
+
+}
+
+.avatar img {
+    width: 180px;
+    border-radius: 20%;
+    display: block;
+    float: left;
+    box-shadow: 5px 5px 1px rgb(164, 145, 145);
+    -webkit-box-shadow: 3px 3px 1px rgb(120, 108, 108);
+    -moz-box-shadow: 3px 3px 1px rgb(112, 102, 102)
+}
+
+.bm1 {
+    padding-left: 0px;
+}
+
+.name {
+    font: 40px;
+    font-size: large;
+    text-shadow: 1px 1px 2px black, 0 0 1em red;
+    margin-top: 0%;
+    background-color: rgb(249, 198, 226);
+    opacity: 0.8;
+    margin-left: 300px;
+    border-radius: 5%;
+    border-left-width:  5px;
+    border-color:rgb(156, 156, 161) ;
+    padding-right: 40 px;
+
+}
+
+
+
+table {
+    padding-left: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+.flex {
+    display: flex;
+    padding-left: 1px;
+    margin-left: 0px;
+    border-left: 0px;
+    padding-right: 0px;
+    margin-right: 0px;
+}
+
+.social ul {
+    font: optional;
+
+}
+
+.social {
+    margin-top: 55px;
+    margin-top: 0%;
+    padding-top: 60px;
+    padding-right: 70px;
+    border-radius: 10%;
+    background-color: rgb(249, 198, 226);
+    opacity: 0.8;
+    border-right-width: 3px;
+    border-right-color: rgb(156, 156, 161);
+
+}
+
+.social a {
+    font: 8px;
+    font-size: larger;
+    5px;
+    text-shadow: 1px 1px 2px black, 0 0 1em red;
+
+
+}
+
+.social img {
+    width: 20px;
+    margin: 0px, 0px;
+}
+
+
+.avatar {
+
+    padding: 40px;
+    border-right: 0px;
+
+}
+.name {
+    padding: 40px;
+}
+
+.stran h1 {
+    display: flex;
+    margin-left: 0px;
+    margin-right: 5px;
+    padding-right: 5px;
+    text-shadow: 1px 1px 2px black, 0 0 1em red;
+}
+
+.stran {
+    background: rgb(249, 198, 226);
+    border-radius: 5%;
+    opacity: 0.9;
+
+}
+
+.cont2 {
+   margin-top: 70px;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-right: 0%;
+    background-color: rgb(249, 198, 226);
+    border-radius: 5%;
+    border-right-color: rgb(156, 156, 161);
+    font-style: italic;
+    opacity: 0.9;
+
+}
+.cont2 h4{
+font-size: 20px;
+}
+
+.table1 {
+
+    padding-left: 90px;
+    margin-left: 150px;
+    margin-bottom: 40px;
+}
+
+.myfhoto {
+    margin-left: 70px;
+    text-shadow: 1px 1px 2px black, 0 0 1em red;
+    font-size:20px;
+    font-style: italic;
+   
+}
+.photo12{
+    margin-left:30px;
+}
+
+.imput1 {
+    background: rgb(249, 198, 226);
+    border-radius: 80%;
+    padding-left: 450px;
+    text-shadow: 1px 1px 2px black, 0 0 1em red;
+    opacity: 0.9;
+    margin-bottom:100px;
+
+}
+
+.con11 {
+    display: flex;
+    background-color: rgb(249, 198, 226);
+    border-radius: 5%;
+   
+}
+
+.name2 {
+    padding-left: 180px;
+}
+.name3 {
+    padding-left: 150px;
+
+}
+.button1 {
+    padding-left: 150px;
+}
+
+.sms1 {
+    padding-left: 65px;
+}
+.sms2 {
+    padding-left: 65px;
+
+}
+
+li{
+    font-size:16px;
+}
+
+.imput1 {
+    font-size:20 px;
+
+}
